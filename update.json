@@ -1,0 +1,22 @@
+{
+	"Msgs":[
+		{"author": "kiara ",
+		"av": "images/kiri.jpg",
+		"title": "Invierno",
+		"content": "Jenni, necesito dar un paseo y quiero pienso! :)",
+		"date": "22/04/2016"},
+
+		{"author": "Ra ",
+		"av": "images/ra.jpg",
+		"title": "España",
+		"content": "Quiero comer ñam!",
+		"date": "19/04/2016"},
+
+		{"author": "Dani ",
+		"av": "images/dani.jpg",
+		"title": "España",
+		"content": "Vamos a por AT",
+		"date": "20/04/2016"}
+	]
+
+}

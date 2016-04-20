@@ -1,0 +1,16 @@
+{
+	"Msgs":[
+		{"author": "Kiara ",
+		"av": "images/kiri.jpg",
+		"title": "Vienen los daleks",
+		"content": "Jenni, una grieta espacio temporal ha introducidos daleks en las calles de Madrid, necesito tu ayuda",
+		"date": "18/04/2016"},
+
+		{"author": "Ra ",
+		"av": "images/ra.jpg",
+		"title": "Piramides de Egipto",
+		"content": "Jenni, un gran misterio nos concierne, me gustaria que vinieras con Watson y conmigo para verlo",
+		"date": "12/04/2016"}
+	]
+
+}
