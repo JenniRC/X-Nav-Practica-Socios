@@ -1,0 +1,124 @@
+body{
+	/*Gradiente lineal, sentido ascendente */
+	background:-moz-linear-gradient(#FFF,#46629E);
+	background:-webkit-linear-gradient(#FFF,#46629E);
+	background:-o-linear-gradient(#FFF,#46629E);
+	background:linear-gradient(#FFF,#46629E);
+}
+
+img {
+	width: 100px;
+}
+
+#sandbox{
+  font-family:"goudy-bookletter-1911-1","goudy-bookletter-1911-2","Baskerville","Georgia",serif;
+	text-align: center;
+  overflow:hidden;
+  z-index:2;
+  color:black;
+  font-size:16px;
+	margin-bottom: 20px;
+  /*Bordes redondeados*/
+  -moz-border-radius:15px;
+  -webkit-border-radius:15px;
+  -o-border-radius:15px;
+  border-radius: 15px;
+  /*Sombra de bordes*/
+  -moz-box-shadow:0 0 10px 0 #FFF;
+  -webkit-box-shadow:0 0 10px 0 #FFF;
+  -o-box-shadow:0 0 10px 0 #FFF;
+  box-shadow:0 0 10px 0 #FFF;
+  background-color:#46629E;
+}
+
+#sandbox h1{
+  margin:0 20px 20px 0;
+  font-size:56px;
+  word-spacing:3px;
+  /*Transparencia de las letras 0.6*/
+  color:rgba(255,255,255,0.6);
+}
+#sandbox a{
+	  word-spacing:3px;
+	  color:rgba(255,255,255,0.8);
+	}
+#sandbox p{
+  font-size:30px;
+  height:50px;
+  width:auto;
+  color:rgba(0,0,0,0.6);
+  -moz-transition: text-align 5s;
+  -webkit-transition: text-align 5s;
+  -o-transition: text-align 5s;
+  transition: text-align 5s;
+}
+#sandbox:hover p{
+  text-align:center;
+}
+
+#tabs a{
+	width: 100%;
+	height: 500px;
+	/*Transparencia de las letras 0.6*/
+	 color:#46629E;
+	margin:0 20px 20px 0;
+	font-size:56px;
+	text-align:center;
+
+}
+#tabs li{
+	display: -webkit-inline-box;
+	margin-left: 20%;
+	background-color: white;
+	/*Bordes redondeados*/
+	-moz-border-radius:15px;
+	-webkit-border-radius:15px;
+	-o-border-radius:15px;
+	border-radius: 15px;
+	border-style:dashed;
+	border-color: #46629E;
+	display: -moz-box;
+
+}
+
+#up{
+	width: 25%;
+	height: 500px;
+	float: left;
+	margin-left:  20%;
+    background-color:#46629E;
+	-moz-border-radius:15px;
+	-webkit-border-radius:15px;
+	-o-border-radius:15px;
+	border-radius: 15px;
+}
+
+#ml{
+	width: 25%;
+	height: 500px;
+	float: right;
+	margin-right: 20%;
+	background-color:#46629E;
+	-moz-border-radius:15px;
+	-webkit-border-radius:15px;
+	-o-border-radius:15px;
+	border-radius: 15px;
+}
+#update{
+	width: 35%;
+	height: 15%;
+	margin:  10px 10px 10px 10px;
+	font-size:30px;
+	background-color:rgba(255,255,255,0.8);
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	-o-border-radius:20px;
+	border-radius: 20px;
+}
+button#update {
+	font-size:30px;
+	font-family:"goudy-bookletter-1911-1","goudy-bookletter-1911-2","Baskerville","Georgia",serif;
+	color: #46629E;
+	border-width: thin;
+	cursor: -webkit-grab;
+}
