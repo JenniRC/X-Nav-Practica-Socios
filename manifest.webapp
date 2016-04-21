@@ -1,0 +1,12 @@
+{
+  "version": "0.1",
+  "name": "Open Web App",
+  "description": "Your new awesome Open Web App",
+  "launch_path": "/index.html",
+  },
+  "developer": {
+    "name": "Jenifer",
+    "url": "https://github.com/JenniRC/X-Nav-Practica-Socios"
+	}
+  
+}
